@@ -1,0 +1,1 @@
+extern int counter_sleep, counter_display, counter_uart;
